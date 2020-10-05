@@ -1,0 +1,13 @@
+C:\Users\julia\OneDrive\Desktop\Sample\SQLDataAccessDemo\FomeUI\bin\Debug\FomeUI.exe.config
+C:\Users\julia\OneDrive\Desktop\Sample\SQLDataAccessDemo\FomeUI\bin\Debug\FomeUI.exe
+C:\Users\julia\OneDrive\Desktop\Sample\SQLDataAccessDemo\FomeUI\bin\Debug\FomeUI.pdb
+C:\Users\julia\OneDrive\Desktop\Sample\SQLDataAccessDemo\FomeUI\bin\Debug\Dapper.dll
+C:\Users\julia\OneDrive\Desktop\Sample\SQLDataAccessDemo\FomeUI\bin\Debug\Dapper.xml
+C:\Users\julia\OneDrive\Desktop\Sample\SQLDataAccessDemo\FomeUI\obj\Debug\FomeUI.csprojAssemblyReference.cache
+C:\Users\julia\OneDrive\Desktop\Sample\SQLDataAccessDemo\FomeUI\obj\Debug\FomeUI.Dashboard.resources
+C:\Users\julia\OneDrive\Desktop\Sample\SQLDataAccessDemo\FomeUI\obj\Debug\FomeUI.Properties.Resources.resources
+C:\Users\julia\OneDrive\Desktop\Sample\SQLDataAccessDemo\FomeUI\obj\Debug\FomeUI.csproj.GenerateResource.cache
+C:\Users\julia\OneDrive\Desktop\Sample\SQLDataAccessDemo\FomeUI\obj\Debug\FomeUI.csproj.CoreCompileInputs.cache
+C:\Users\julia\OneDrive\Desktop\Sample\SQLDataAccessDemo\FomeUI\obj\Debug\FomeUI.csproj.CopyComplete
+C:\Users\julia\OneDrive\Desktop\Sample\SQLDataAccessDemo\FomeUI\obj\Debug\FomeUI.exe
+C:\Users\julia\OneDrive\Desktop\Sample\SQLDataAccessDemo\FomeUI\obj\Debug\FomeUI.pdb
