@@ -12,6 +12,9 @@ namespace FomeUI
         public static string CnnVal(string name)
         {
             return ConfigurationManager.ConnectionStrings[name].ConnectionString;
+            //we wish you
+            //a merry
+            //christmas
         }
     }
 }
