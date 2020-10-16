@@ -41,6 +41,7 @@
             this.phoneNumberInsLabel = new System.Windows.Forms.Label();
             this.phoneNumberInsText = new System.Windows.Forms.TextBox();
             this.insertRecordButton = new System.Windows.Forms.Button();
+            this.btnTest1 = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // PeopleFoundListbox
@@ -152,11 +153,21 @@
             this.insertRecordButton.UseVisualStyleBackColor = true;
             this.insertRecordButton.Click += new System.EventHandler(this.insertRecordButton_Click);
             // 
+            // btnTest1
+            // 
+            this.btnTest1.Location = new System.Drawing.Point(366, 90);
+            this.btnTest1.Name = "btnTest1";
+            this.btnTest1.Size = new System.Drawing.Size(227, 46);
+            this.btnTest1.TabIndex = 13;
+            this.btnTest1.Text = "Test Button";
+            this.btnTest1.UseVisualStyleBackColor = true;
+            // 
             // Dashboard
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(16F, 31F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(646, 594);
+            this.Controls.Add(this.btnTest1);
             this.Controls.Add(this.insertRecordButton);
             this.Controls.Add(this.phoneNumberInsLabel);
             this.Controls.Add(this.phoneNumberInsText);
@@ -194,6 +205,7 @@
         private System.Windows.Forms.Label phoneNumberInsLabel;
         private System.Windows.Forms.TextBox phoneNumberInsText;
         private System.Windows.Forms.Button insertRecordButton;
+        private System.Windows.Forms.Button btnTest1;
 
         r
     }
