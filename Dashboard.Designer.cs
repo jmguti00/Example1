@@ -43,6 +43,7 @@
             this.insertRecordButton = new System.Windows.Forms.Button();
             this.btnTest = new System.Windows.Forms.Button();
             this.txtbxTest1 = new System.Windows.Forms.TextBox();
+            this.btnTestTwo = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // PeopleFoundListbox
@@ -170,11 +171,21 @@
             this.txtbxTest1.Size = new System.Drawing.Size(169, 38);
             this.txtbxTest1.TabIndex = 14;
             // 
+            // btnTestTwo
+            // 
+            this.btnTestTwo.Location = new System.Drawing.Point(70, 75);
+            this.btnTestTwo.Name = "btnTestTwo";
+            this.btnTestTwo.Size = new System.Drawing.Size(166, 44);
+            this.btnTestTwo.TabIndex = 15;
+            this.btnTestTwo.Text = "button1";
+            this.btnTestTwo.UseVisualStyleBackColor = true;
+            // 
             // Dashboard
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(16F, 31F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(646, 594);
+            this.Controls.Add(this.btnTestTwo);
             this.Controls.Add(this.txtbxTest1);
             this.Controls.Add(this.btnTest);
             this.Controls.Add(this.insertRecordButton);
@@ -217,6 +228,7 @@
 
         private System.Windows.Forms.Button btnTest;
         private System.Windows.Forms.TextBox txtbxTest1;
+        private System.Windows.Forms.Button btnTestTwo;
 
         r
     }
