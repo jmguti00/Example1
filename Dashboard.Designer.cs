@@ -42,7 +42,7 @@
             this.phoneNumberInsText = new System.Windows.Forms.TextBox();
             this.insertRecordButton = new System.Windows.Forms.Button();
             this.btnTest = new System.Windows.Forms.Button();
-            this.txtbxTest = new System.Windows.Forms.TextBox();
+            this.txtbxTest1 = new System.Windows.Forms.TextBox();
             this.SuspendLayout();
             // 
             // PeopleFoundListbox
@@ -163,19 +163,19 @@
             this.btnTest.Text = "Test Button 2";
             this.btnTest.UseVisualStyleBackColor = true;
             // 
-            // txtbxTest
+            // txtbxTest1
             // 
-            this.txtbxTest.Location = new System.Drawing.Point(427, 125);
-            this.txtbxTest.Name = "txtbxTest";
-            this.txtbxTest.Size = new System.Drawing.Size(169, 38);
-            this.txtbxTest.TabIndex = 14;
+            this.txtbxTest1.Location = new System.Drawing.Point(427, 125);
+            this.txtbxTest1.Name = "txtbxTest1";
+            this.txtbxTest1.Size = new System.Drawing.Size(169, 38);
+            this.txtbxTest1.TabIndex = 14;
             // 
             // Dashboard
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(16F, 31F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(646, 594);
-            this.Controls.Add(this.txtbxTest);
+            this.Controls.Add(this.txtbxTest1);
             this.Controls.Add(this.btnTest);
             this.Controls.Add(this.insertRecordButton);
             this.Controls.Add(this.phoneNumberInsLabel);
@@ -216,7 +216,7 @@
         private System.Windows.Forms.Button insertRecordButton;
 
         private System.Windows.Forms.Button btnTest;
-        private System.Windows.Forms.TextBox txtbxTest;
+        private System.Windows.Forms.TextBox txtbxTest1;
 
         r
     }
