@@ -41,7 +41,7 @@
             this.phoneNumberInsLabel = new System.Windows.Forms.Label();
             this.phoneNumberInsText = new System.Windows.Forms.TextBox();
             this.insertRecordButton = new System.Windows.Forms.Button();
-            this.button1 = new System.Windows.Forms.Button();
+            this.btnTest = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // PeopleFoundListbox
@@ -153,21 +153,21 @@
             this.insertRecordButton.UseVisualStyleBackColor = true;
             this.insertRecordButton.Click += new System.EventHandler(this.insertRecordButton_Click);
             // 
-            // button1
+            // btnTest
             // 
-            this.button1.Location = new System.Drawing.Point(381, 532);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(205, 50);
-            this.button1.TabIndex = 13;
-            this.button1.Text = "Test Button 2";
-            this.button1.UseVisualStyleBackColor = true;
+            this.btnTest.Location = new System.Drawing.Point(381, 532);
+            this.btnTest.Name = "btnTest";
+            this.btnTest.Size = new System.Drawing.Size(205, 50);
+            this.btnTest.TabIndex = 13;
+            this.btnTest.Text = "Test Button 2";
+            this.btnTest.UseVisualStyleBackColor = true;
             // 
             // Dashboard
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(16F, 31F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(646, 594);
-            this.Controls.Add(this.button1);
+            this.Controls.Add(this.btnTest);
             this.Controls.Add(this.insertRecordButton);
             this.Controls.Add(this.phoneNumberInsLabel);
             this.Controls.Add(this.phoneNumberInsText);
@@ -205,7 +205,7 @@
         private System.Windows.Forms.Label phoneNumberInsLabel;
         private System.Windows.Forms.TextBox phoneNumberInsText;
         private System.Windows.Forms.Button insertRecordButton;
-        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Button btnTest;
     }
 }
 
