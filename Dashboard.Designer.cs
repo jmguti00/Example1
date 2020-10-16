@@ -41,9 +41,8 @@
             this.phoneNumberInsLabel = new System.Windows.Forms.Label();
             this.phoneNumberInsText = new System.Windows.Forms.TextBox();
             this.insertRecordButton = new System.Windows.Forms.Button();
-
             this.txtbxTest1 = new System.Windows.Forms.TextBox();
-
+            this.btnTest1 = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // PeopleFoundListbox
@@ -155,23 +154,29 @@
             this.insertRecordButton.UseVisualStyleBackColor = true;
             this.insertRecordButton.Click += new System.EventHandler(this.insertRecordButton_Click);
             // 
-
             // txtbxTest1
             // 
             this.txtbxTest1.Location = new System.Drawing.Point(165, 81);
             this.txtbxTest1.Name = "txtbxTest1";
             this.txtbxTest1.Size = new System.Drawing.Size(100, 38);
             this.txtbxTest1.TabIndex = 13;
-
+            // 
+            // btnTest1
+            // 
+            this.btnTest1.Location = new System.Drawing.Point(404, 124);
+            this.btnTest1.Name = "btnTest1";
+            this.btnTest1.Size = new System.Drawing.Size(170, 51);
+            this.btnTest1.TabIndex = 14;
+            this.btnTest1.Text = "Test 1";
+            this.btnTest1.UseVisualStyleBackColor = true;
             // 
             // Dashboard
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(16F, 31F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(646, 594);
-
+            this.Controls.Add(this.btnTest1);
             this.Controls.Add(this.txtbxTest1);
-
             this.Controls.Add(this.insertRecordButton);
             this.Controls.Add(this.phoneNumberInsLabel);
             this.Controls.Add(this.phoneNumberInsText);
@@ -211,6 +216,7 @@
         private System.Windows.Forms.Button insertRecordButton;
 
         private System.Windows.Forms.TextBox txtbxTest1;
+        private System.Windows.Forms.Button btnTest1;
 
         r
     }
