@@ -1,0 +1,13 @@
+C:\Users\Ricardo\Desktop\QuinnComics\QuinnComics\bin\Debug\QuinnComics.exe.config
+C:\Users\Ricardo\Desktop\QuinnComics\QuinnComics\bin\Debug\QuinnComics.exe
+C:\Users\Ricardo\Desktop\QuinnComics\QuinnComics\bin\Debug\QuinnComics.pdb
+C:\Users\Ricardo\Desktop\QuinnComics\QuinnComics\obj\Debug\QuinnComics.csprojAssemblyReference.cache
+C:\Users\Ricardo\Desktop\QuinnComics\QuinnComics\obj\Debug\QuinnComics.AddCustomer.resources
+C:\Users\Ricardo\Desktop\QuinnComics\QuinnComics\obj\Debug\QuinnComics.CustomerList.resources
+C:\Users\Ricardo\Desktop\QuinnComics\QuinnComics\obj\Debug\QuinnComics.Form1.resources
+C:\Users\Ricardo\Desktop\QuinnComics\QuinnComics\obj\Debug\QuinnComics.Properties.Resources.resources
+C:\Users\Ricardo\Desktop\QuinnComics\QuinnComics\obj\Debug\QuinnComics.PullList.resources
+C:\Users\Ricardo\Desktop\QuinnComics\QuinnComics\obj\Debug\QuinnComics.csproj.GenerateResource.cache
+C:\Users\Ricardo\Desktop\QuinnComics\QuinnComics\obj\Debug\QuinnComics.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo\Desktop\QuinnComics\QuinnComics\obj\Debug\QuinnComics.exe
+C:\Users\Ricardo\Desktop\QuinnComics\QuinnComics\obj\Debug\QuinnComics.pdb
